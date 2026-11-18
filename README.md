@@ -1,3 +1,3 @@
 # SytrionDNS
 Roblox / Discord'a giriş yapmak için kullanabilirsiniz
-![Uploading image.png…]()
+![SytrionDNS arayüzü](https://raw.githubusercontent.com/sytrion/SytrionDNS/main/preview.png)
